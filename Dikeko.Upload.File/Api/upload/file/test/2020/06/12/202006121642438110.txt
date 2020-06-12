@@ -1,0 +1,42 @@
+APP：client/xxx  例：client/user
+商户：merchant/xxx 例：merchant/user
+平台：platform/xxx 例：platform/user
+
+F:\\xt\\Z_中柏商城\\ZhongBai.Mall\\ZhongBai.Mall.API\\ZhongBai.Mall.Model\\bin\\Debug\\ZhongBai.Mall.Model.XML
+
+e10adc3949ba59abbe56e057f20f883e
+
+791FD29F1C96D80FC42210AAB6AD8187
+GoodsCategoryAttributesKey
+
+-5dfW8kt3Ze8A43hOEeH2o9mVqZilnlAcvN7AnWPrpPV_uPD3YihdQ.bX5X_8ptIKkiMIHenww-pFHftYdpORAUNyGxgm2fPuPZeVexGAxWPUqIu0wBny0_vXyopUaNT7byDp0giSHjc8EqfPOgOn2D.3cubbKSA0Zjvgyf5YHRqGg
+
+APP：client/xxxx/xx/xx  例：client/2019/10/12
+商户：merchant/xxxx/xx/xx  例：merchant/2019/10/12
+平台：platform/xxxx/xx/xx  例：platform/2019/10/12
+
+cd C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319
+ InstallUtil "F:\xt\Z_中柏商城\ZhongBai.Mall\ZhongBai.Mall.ScheduledTask\bin\Debug\ZhongBai.Mall.ScheduledTask.exe"
+
+InstallUtil /u "F:\xt\Z_中柏商城\ZhongBai.Mall\ZhongBai.Mall.ScheduledTask\bin\Debug\ZhongBai.Mall.ScheduledTask.exe"
+
+
+
+$ cnpm create umi
+
+npm run start:dev
+npm run start:dev
+
+
+
+
+npm config set prefix "F:\nmp"
+npm config set cache "F:\npm_cache"
+
+yarn config  set global-folder "F:\yarn\global"
+yarn config  set global-folder "F:\yarn\cache"
+ yarn add crypto-ts
+
+npm uninstall -g crypto-ts
+yarn global remove crypto-ts
+npm install crypto-ts
